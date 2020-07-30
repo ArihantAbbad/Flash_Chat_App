@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319653640304",
+    "firebase_url": "https://super-group-chat-d1a3a.firebaseio.com",
+    "project_id": "super-group-chat-d1a3a",
+    "storage_bucket": "super-group-chat-d1a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319653640304:android:2c1c26e4c3faae3fae1cb5",
+        "android_client_info": {
+          "package_name": "com.Arihant.SuperGroupChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319653640304-iednlivo5a6ar1nhho1glkv9jl8ktcqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzGZ-Wx5cgE2HgQ7ierid46uuaBIPma-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319653640304-iednlivo5a6ar1nhho1glkv9jl8ktcqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
